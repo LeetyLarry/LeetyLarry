@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeetyLarry (Y'all can call me Larry Leetsworth)
-- 👀 I’m interested in Mathematics, Algorithms, App Security
+- 👀 I’m interested in Mathematics, Algorithms
 - 🌱 I’m currently learning C++ stuff
 - 💞️ I’m looking to collaborate on NOTHING!
 
